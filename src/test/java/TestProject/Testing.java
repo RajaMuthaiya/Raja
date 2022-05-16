@@ -19,5 +19,11 @@ private void method4() {
 	System.out.println("check4");
 
 }
+private void method5() {
+	System.out.println("check5");
+}
+private void method6() {
+	System.out.println("check6");
+}
 
 }
